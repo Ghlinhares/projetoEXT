@@ -1,0 +1,9 @@
+x = int(input("digite qualquer numero que seja positivo:\n"))
+while x < 0:
+  x = int(input("positivo:\n"))
+    
+ip = x%2
+if ip == 0:
+    print(f" o numero {x} é par !! \n \t^-^")
+else:
+    print(f" o numero {x} é impar !!\n \t °-°")
