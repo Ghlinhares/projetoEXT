@@ -1,0 +1,14 @@
+x = 10
+y = 2
+print(x/y)
+print(x-y)
+print(x+y)
+print(x*y)
+
+a = int(input("digite um numero:"))
+b = int(input("digite agora outro numero:"))
+print(a/b)
+print(a-b)
+print(a+b)
+print(a*b)
+print(a**b)
