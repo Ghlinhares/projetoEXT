@@ -1,0 +1,2 @@
+nome = input("bem-vindo,digite seu nome: ")
+print(f"prazer {nome}, espero que seu dia seja cheio de luz!")  
